@@ -6,7 +6,7 @@
 
 <br>
 
-### Learnt to create full page developer landing page. HTML, CSS, CSS Selector, Flexbox, Positions and SVGs a bit, are the main concepts of the project to learn.
+### I Learnt to create full length beatiful web page called **Developers Landing Page** template. HTML, CSS, CSS Selector, Flexbox, Positions and SVGs are the main concepts of the project I covered in this project. I also learn't how to push my code to github, though I know it before but the new thing I learnt to make my Github project Live.
 
 <br>
 
@@ -14,9 +14,11 @@
 
 <br>
 
-![Honest-Time](https://img.shields.io/badge/TIme-5%20--%206%20Hours-yellowgreen "Honest-Time to complete this project") ![LCO](https://img.shields.io/badge/TRAINER-HITESH%20CHOUDHARY-orange "Trainer") ❤️
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js) ![Honest-Time](https://img.shields.io/badge/TIme-5%20--%206%20Hours-yellowgreen "Honest-Time to complete this project") ![LCO](https://img.shields.io/badge/TRAINER-HITESH%20CHOUDHARY-orange "Trainer") ❤️
 
 <br>
 
-![Live](https://img.shields.io/badge/LIVE-https%3A%2F%2Fimg.shields.io%2Fbadge%2FTIme--5%2520----%25206%2520Hours--yellowgreen-red "Find the Project live link here")
+#### Live link to the project 👇
+
+[https://superb-zabaione-e454a1.netlify.app](https://superb-zabaione-e454a1.netlify.app "Find the Project live link here")
 <br>
