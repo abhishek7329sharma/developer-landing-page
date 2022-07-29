@@ -20,5 +20,5 @@
 
 #### Live link to the project 👇
 
-[https://superb-zabaione-e454a1.netlify.app](https://superb-zabaione-e454a1.netlify.app "Find the Project live link here")
+[https://09-developer-landing-page.netlify.app/](https://09-developer-landing-page.netlify.app/ "Find the Project live link here")
 <br>
